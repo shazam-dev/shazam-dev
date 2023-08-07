@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MrxMob
-- 👀 I’m interested in Gaming, electrical and electronic work.
-- 🌱 I’m currently learning coding. 
-- 💞️ I can collaborate thou I'm not good at coding.
+- 👀 I’m interested in Gaming, coding and development.
+- 🌱 I’m currently a FS Engineer. 
 - 📫 How to reach me through my email.
 
 <!---
