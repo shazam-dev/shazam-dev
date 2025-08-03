@@ -1,8 +1,8 @@
-🚀 Full-Stack Engineer | AI Product Builder | Startup-Grade Velocity 🚀
+## 🚀 Full-Stack Engineer | AI Product Builder | Startup-Grade Velocity 🚀
 
 I architect, build, and ship AI-powered, production-grade applications end-to-end — from prompt logic and scalable APIs to polished, high-performance UIs.
 
-⚡ What I Build
+## ⚡ What I Build
 
 Real-time LLM-driven assistants that stream responses with sub-second latency
 
@@ -12,20 +12,7 @@ Full-stack SaaS products with secure auth, billing, and multi-tenant scaling
 
 Custom UI libraries for rapid, consistent product development
 
-Complex API orchestration with 3rd-party tools (Zapier, Zoho, CRM, POS systems)
-
-🔥 Track Record of Impact
-
-At Qlu.ai, built an AI-powered company generation tool (GPT-4 + LLM on 10M+ records) — helped close a $5M enterprise deal.
-
-Delivered Yoto.ai, an AI assistant for real-time LinkedIn profile analysis.
-
-Migrated core ElasticSearch engine from Python → TypeScript with full test coverage & performance boosts.
-
-Built multi-tenant POS → marketplace integration system for 100+ restaurants.
-
-💡 Always hacking on real AI products — not just prototypes. Moving fast, shipping often, and scaling what works.
-
+Complex API orchestration with 3rd-party tools (Zapier, Zoho, CRM, POS systems etc)
 
 
 ## 🌐 Socials:
