@@ -1,14 +1,14 @@
 ## 🚀 Full-Stack Engineer | AI Product Builder | Startup-Grade Velocity 🚀
 
-I architect, build, and ship AI-powered, production-grade applications end-to-end — from prompt logic and scalable APIs to polished, high-performance UIs.
+I architect, build, and ship AI-powered, production-grade applications end-to-end from prompt logic and scalable APIs to polished, high-performance UIs.
 
 ## ⚡ What I Build
 
-Real-time LLM-driven assistants that stream responses with sub-second latency
+Real-time LLM-driven assistants that stream responses with subsecond latency
 
-AI search systems integrating ElasticSearch/Algolia for relevance-ranked results
+AI search systems integrating ElasticSearch/Algolia for relevance ranked results
 
-Full-stack SaaS products with secure auth, billing, and multi-tenant scaling
+Full-stack SaaS products with secure auth, billing, and multi tenant scaling
 
 Custom UI libraries for rapid, consistent product development
 
